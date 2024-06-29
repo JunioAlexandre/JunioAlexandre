@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Junio 👋
 
-- 🐍 Estudando Python 
-- 🌱 I’m currently learning ...
+- 🐍 Estudando Python...
 
 <div>
   <a href="https://github.com/JunioAlexandre">
