@@ -8,10 +8,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunioAlexandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunioAlexandre&layout=compact&langs_count=16&theme=tokyonight"/>
 <br><br>
+<h3>Stack</h3>
+  <img alt="Junio-Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img alt="Junio-Ubuntu" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
+  <br>
   <img alt="Junio-Cplusplus" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img alt="Junio-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Junio-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
+  <h3>Tools</h3>
+  
 </div>
     
 ##
