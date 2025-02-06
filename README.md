@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Junio 👋
 
-- 🐍 Estudando Python...
+- ☕ Programando em Java...
 
 
 <div align="center">
