@@ -30,7 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
 <div align="center">
   <h3>Social</h3>
   <a href="https://instagram.com/junioalexandr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/seu_usuario" target="_blank">
+  <a href="https://linkedin.com/in/junio-alexandre" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://dev.to/junioalexandre" target="_blank">
     <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
