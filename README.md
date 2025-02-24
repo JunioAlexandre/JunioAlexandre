@@ -8,6 +8,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunioAlexandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunioAlexandre&layout=compact&langs_count=16&theme=tokyonight&cache_seconds=1800"/>
 <br><br>
+    
 <h3>Stack</h3>
   <img alt="Junio-Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img alt="Junio-Ubuntu" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
@@ -19,6 +20,10 @@
   <img alt="Junio-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Junio-Html5" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
+  <br>
+  <img alt="Junio-Postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  
   <h3>Tools</h3>
   <img alt="Junio-ApacheNetBeans" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
   <img alt="Junio-VsCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
